@@ -8,4 +8,6 @@ Please use the Async API instead.
 ---
 
 ## 🏗 Project Structure
+<img width="361" height="583" alt="image" src="https://github.com/user-attachments/assets/522051f9-59c7-4369-84d7-22efefd061e1" />
+
 
